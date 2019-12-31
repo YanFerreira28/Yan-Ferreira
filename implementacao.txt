@@ -1,0 +1,8 @@
+implementar as exceções via dataanotation/exceptionhanddler
+validacaoformulario via dataanotation 
+
+e estudar sobre loggable/logabbleexception - acedito ser insercao de log
+
+implementar o sistema de autenticacao e controle de perfil.
+
+adicionar aos metodos de repositorioBase como virtual 
